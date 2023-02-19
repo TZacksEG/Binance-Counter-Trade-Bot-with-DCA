@@ -115,7 +115,7 @@ It is important to carefully consider your investment strategy and risk toleranc
 > **price_deviation** = 2.25
 
 ### Your TP Settings .
-I have developed a bot that allows you to set different take-profit targets for each of your DCA orders. This means that you can increase/lower TP targets based on market conditions and chart analysis.
+I have developed the bot to  allow you to set different take-profit targets for each of your DCA orders. This means that you can increase/lower TP targets based on market conditions and chart analysis.
 
 **Please note** that the bot automatically calculates Binance fees, which are 0.2% for the base order and 0.3% for DCA orders. The fees are added to the final take-profit target, so if the user sets a take-profit target of 1% while still in the base order, the bot will automatically set a take-profit target of 1.2%
 
