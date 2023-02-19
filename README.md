@@ -187,7 +187,8 @@ to change this value add BB indicator in your TV chart and change this value
 > **discord** = True
 
 > **discord-webhook** = 157456546245454696/Jf24vHTl-_ioev8UJB3egDDAdfg56DDXjP-E-4w5VkNFDQuRFWSSQEDXQPkK3D7
-**For discord : add whats after "https://discord.com/api/webhooks/" but dont add https://discord.com/api/webhooks/
+
+**For discord** : add whats after "https://discord.com/api/webhooks/" but dont add https://discord.com/api/webhooks/
 
 
 
